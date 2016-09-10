@@ -1,0 +1,76 @@
+h1 {
+	color: #152153;
+	text-align: center;
+	padding-top: 30px;
+    }
+li  {
+	display: inline-block;
+	padding: 20px;
+    } 
+ul { text-align: center;} 
+
+.fondo { 
+    background-image: url(../img/dance_1.jpg);
+    max-width: 100%;
+    padding: 20%;
+    } 
+h2{ 
+	color:#C6C2C9;
+	padding-bottom: 100px;
+	display: absolute;
+	right: 500px;
+}
+
+.dos{ 
+	text-align: center;
+	padding-top: 30px; 
+}
+.medio { 
+	width: 100px;
+	height: 100px;
+	padding-left: 625px;
+    }
+.potton { 
+	border-radius: 5px;
+    border: 2px solid #6495ED;
+    background-color: #2C3469;
+    height: 40px;
+    width: 300px;
+    margin: auto;
+    padding-top:7px;
+    text-align: center;}
+
+.imaye{ 
+	padding-top: 100px;}
+
+.imayen {
+	padding-top: 100px;
+	height: 450px;
+ }
+ 
+ .in {  
+ 	text-align: center;
+    border: 2px solid #6495ED;
+    background-color: #2C3469;
+    width: 500px;
+    height: 60px;
+    margin: auto;
+    padding-top:10px;}
+
+ .danza { 
+ 	text-align: center;
+ 	font-size: 50px;
+ 	padding: 20px;
+ }
+
+ .ultimo {   
+ 	background-image: url(img/shoes_1.jpg);
+  
+}
+
+
+
+
+
+
+

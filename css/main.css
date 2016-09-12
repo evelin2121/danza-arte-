@@ -1,35 +1,60 @@
-h1 {
+h1 { font-size: 2em;
 	color: #152153;
 	text-align: center;
-	padding-top: 30px;
+	padding-top: 20px;
     }
 li  {
 	display: inline-block;
-	padding: 20px;
+	padding: 25px;
+    color: #827E78;
     } 
 ul { text-align: center;} 
 
-.fondo { 
-    background-image: url(../img/dance_1.jpg);
-    max-width: 100%;
-    padding: 20%;
-    } 
-h2{ 
-	color:#C6C2C9;
-	padding-bottom: 100px;
-	display: absolute;
-	right: 500px;
-}
+.fondo {
 
-.dos{ 
+    background-image: url(../img/dance_1.jpg);
+    background-repeat: no-repeat;
+    max-width: 100%;
+    padding: 10%;
+    } 
+h2{ font-size: 5em;
+	color:#C6C2C9;
+    padding: 10px;
+	}
+.uno{ 
+    color: #827E78;
+    padding-bottom: 10px;
+    }    
+
+.dos{
+    color: #7C7380;
+    font-size: 2ex; 
 	text-align: center;
-	padding-top: 30px; 
+	padding-left:  50px; 
+    padding-top: 20px;
 }
+.boto{ 
+    border-radius: 5px;
+    border: 2px solid #0D0C60;
+    background-color: #1C235C;
+    height: 30px;
+    width: 120px;
+    margin: left;
+    padding-top:7px;
+    text-align: center;
+
+      }
 .medio { 
 	width: 100px;
 	height: 100px;
-	padding-left: 625px;
+	padding-left: 555px;
     }
+ .container{ 
+    background-image: url(img/textura_2.jpg);
+    padding: 20px;
+} 
+
+
 .potton { 
 	border-radius: 5px;
     border: 2px solid #6495ED;
@@ -40,35 +65,89 @@ h2{
     padding-top:7px;
     text-align: center;}
 
-.imaye{ 
-	padding-top: 100px;}
+.imaye{ }
 
 .imayen {
-	padding-top: 100px;
-	height: 450px;
- }
- 
- .in {  
- 	text-align: center;
-    border: 2px solid #6495ED;
-    background-color: #2C3469;
-    width: 500px;
-    height: 60px;
+    height: 400px;
+	}
+.in {
+    border-radius: 3px;
+    border: 2px solid #232960;
+    background-color: #232960;
+    width: 400px;
+    height: 30px;
+    color: #9795A7;
+    text-align: center;
+    padding: 10px;
     margin: auto;
-    padding-top:10px;}
+    bottom: 50px;
+    }  
 
- .danza { 
- 	text-align: center;
- 	font-size: 50px;
- 	padding: 20px;
- }
+.danza { 
+    text-align: center;
+    font-size: 2em;
+    color: #676572;
+    padding:60px;
+}  
+.color{ 
+    background-color: #161A4B;
+    padding: 50px;
+}  
 
- .ultimo {   
- 	background-image: url(img/shoes_1.jpg);
-  
+iframe { 
+    width: 400px;
+    height: 200px;
+}  
+
+h5{ 
+    color: #7B7C7E;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px;
 }
 
+.lorem{ 
+    color: #7B7C7E;
+    font-size: 10px;
+    }
+ .tex{ 
+     color:#7B7C7E;}
 
+
+.formulario {
+    padding-top: 50px;
+    padding-left: 200px;
+   
+}
+
+h3{ font-size: 30px;
+    padding-bottom: 30px;}   
+
+.enviar{ 
+    font-size: 20px;
+    border-radius: 3px;
+    border: 2px solid #232960;
+    background-color: #232960;
+    width: 400px;
+    height: 40px;
+    color: #9795A7;
+    text-align: center;
+    padding: 0px;
+    margin: auto;
+   }
+input {  
+    border: 1px solid #525355;
+    padding: 10px;
+    } 
+
+.mensaje{ 
+    height: 50px;
+} 
+
+.fin{ 
+    padding: 20px;
+    background-color: #161A4B;
+    color: #929598;}     
 
 
 

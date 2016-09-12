@@ -1,1 +1,70 @@
-/* Inserta tu codigo aqui */
+h1 { font-size: 2em;
+	color: #152153;
+	text-align: center;
+	padding-top: 20px;
+    }
+li  {
+	display: inline-block;
+	padding: 25px;
+    color: #827E78;
+    } 
+ul { text-align: center;} 
+
+.container-fuid{ 
+	background-image: url(../img/grunge_wall.png);
+	margin: auto;
+	 
+    
+	}  
+.col-4 { 
+	 color:#989075;
+	 width: 200px;
+	 height: 400px;
+     display: inline-block;
+     padding: 40px;
+     padding-left: 130px;
+
+     }
+ 
+.formulario {
+    padding-top: 50px;
+    padding-left: 100px;
+   
+}
+
+.h3{ font-size: 30px;
+    padding-bottom: 10px;}   
+
+.enviar{ 
+    font-size: 20px;
+    border-radius: 3px;
+    border: 2px solid #232960;
+    background-color: #232960;
+    width: 277px;
+    height: 40px;
+    color: #9795A7;
+    text-align: center;
+    padding: 0px;
+    margin: auto;
+   }
+input {  
+    border: 1px solid #525355;
+    padding: 10px;
+    } 
+
+.mensaje{ 
+    height: 50px;
+} 
+
+.fin{ 
+    padding: 20px;
+    background-color: #161A4B;
+    color: #929598;}     
+.sho{
+	
+ }
+
+
+
+
+
